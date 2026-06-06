@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Disallow indexing of legal pages (Quiet Luxury private legal notes)
+Disallow: /aviso-legal
+Disallow: /politica-privacidad
+Disallow: /politica-cookies
+
+Sitemap: https://tadelart.com/sitemap.xml
